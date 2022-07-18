@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hosting-test/static/css/main.7807cc15.css",
-    "main.js": "/hosting-test/static/js/main.56443c49.js",
-    "static/media/logo.svg": "/hosting-test/static/media/logo.4f6f0e2c530451c228d9c31069a41be0.svg",
-    "index.html": "/hosting-test/index.html",
-    "main.7807cc15.css.map": "/hosting-test/static/css/main.7807cc15.css.map",
-    "main.56443c49.js.map": "/hosting-test/static/js/main.56443c49.js.map"
+    "main.css": "/digital-value-challenge/static/css/main.7807cc15.css",
+    "main.js": "/digital-value-challenge/static/js/main.22eb2ccd.js",
+    "static/media/logo.svg": "/digital-value-challenge/static/media/logo.4f6f0e2c530451c228d9c31069a41be0.svg",
+    "index.html": "/digital-value-challenge/index.html",
+    "main.7807cc15.css.map": "/digital-value-challenge/static/css/main.7807cc15.css.map",
+    "main.22eb2ccd.js.map": "/digital-value-challenge/static/js/main.22eb2ccd.js.map"
   },
   "entrypoints": [
     "static/css/main.7807cc15.css",
-    "static/js/main.56443c49.js"
+    "static/js/main.22eb2ccd.js"
   ]
 }
